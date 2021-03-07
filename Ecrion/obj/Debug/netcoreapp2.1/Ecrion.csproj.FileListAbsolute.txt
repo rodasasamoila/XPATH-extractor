@@ -1,0 +1,10 @@
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\bin\Debug\netcoreapp2.1\Ecrion.deps.json
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\bin\Debug\netcoreapp2.1\Ecrion.runtimeconfig.json
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\bin\Debug\netcoreapp2.1\Ecrion.runtimeconfig.dev.json
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\bin\Debug\netcoreapp2.1\Ecrion.dll
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\bin\Debug\netcoreapp2.1\Ecrion.pdb
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\obj\Debug\netcoreapp2.1\Ecrion.csproj.CoreCompileInputs.cache
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\obj\Debug\netcoreapp2.1\Ecrion.AssemblyInfoInputs.cache
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\obj\Debug\netcoreapp2.1\Ecrion.AssemblyInfo.cs
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\obj\Debug\netcoreapp2.1\Ecrion.dll
+C:\Users\samoila dan robert\source\repos\Ecrion\Ecrion\obj\Debug\netcoreapp2.1\Ecrion.pdb
